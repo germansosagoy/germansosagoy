@@ -26,7 +26,3 @@ I'm a Junior FullStack Developer focused on continuous learning and how to impro
 
 <a href="http://www.github.com/germansosagoy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=germansosagoy&stroke=ffffff&background=171717&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
