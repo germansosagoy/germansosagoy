@@ -4,7 +4,7 @@ FullStack Jr. Developer.
 I'm a Junior FullStack Developer focused on continuous learning and how to improve human experiences within a team.
 
 * 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [my website](http://https://github.com/germansosagoy)
+* 🖥️  See my portfolio at [my website](https://github.com/germansosagoy)
 * ✉️  You can contact me at [germanesosagoy@gmail.com](mailto:germanesosagoy@gmail.com)
 * 🧠  I'm learning NextJS, Supabase & Typescript
 * 🤝  I'm open to collaborating on other interesting projects!
