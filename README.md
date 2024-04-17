@@ -8,7 +8,7 @@ I'm a Junior FullStack Developer focused on continuous learning and how to impro
 * ✉️  You can contact me at [germanesosagoy@gmail.com](mailto:germanesosagoy@gmail.com)
 * 🚀  I'm currently working on [No-Country](http://github.com/No-Country/C17-O7-M-node-react)
 * 🧠  I'm learning Astro, Supabase & Agile.
-* 🤝  I'm open to collaborating on I'm open to collaborating on other interesting projects!
+* 🤝  I'm open to collaborating on other interesting projects!
 
 ### Skills
 
