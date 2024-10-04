@@ -26,3 +26,5 @@ I'm a Junior FullStack Developer focused on continuous learning and how to impro
 
 <a href="http://www.github.com/germansosagoy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=germansosagoy&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+[![An image of @germansosagoy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/germansosagoy)](https://holopin.io/@germansosagoy)
+
