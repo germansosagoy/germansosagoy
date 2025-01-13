@@ -1,4 +1,4 @@
-FullStack Jr. Developer.
+FullStack Developer.
 ------------------------
 
 [![An image of @germansosagoy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/germansosagoy)](https://holopin.io/@germansosagoy)
