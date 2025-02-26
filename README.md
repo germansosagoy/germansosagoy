@@ -8,7 +8,6 @@ I'm a Junior FullStack Developer focused on continuous learning and how to impro
 * 🌍  I'm based in Argentina.
 * 🖥️  See my portfolio at [here](https://germansosagoy.framer.ai/)
 * ✉️  You can contact me at [germanesosagoy@gmail.com](mailto:germanesosagoy@gmail.com)
-* 🧠  I'm learning Next.js, Astro & Deno.
 * 🤝  I'm open to collaborating on other interesting projects!
 
 ### Skills
