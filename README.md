@@ -3,7 +3,7 @@ FullStack Developer.
 
 [![An image of @germansosagoy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/germansosagoy)](https://holopin.io/@germansosagoy)
 
-I'm a Junior FullStack Developer focused on continuous learning and how to improve human experiences within a team.
+I'm a FullStack Developer focused on continuous learning and how to improve human experiences within a team.
 
 * 🌍  I'm based in Argentina.
 * 🖥️  See my portfolio at [here](https://germansosagoy.framer.ai/)
