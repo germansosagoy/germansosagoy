@@ -12,16 +12,10 @@ I'm a FullStack Developer focused on continuous learning and how to improve huma
 
 ### Skills
 
-### Skills
-- JavaScript  
-- TypeScript  
-- Git  
-- React
-- TailwindCSS  
-- Node.js  
-- Express
-- MySQL  
-- Firebase  
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) |  [Firebase](https://firebase.google.com/) | [Git](https://git-scm.com/) | [React](https://reactjs.org/) | [TailwindCSS](https://tailwindcss.com/)
+
+[Node.js](https://nodejs.org/en/) | [MySQL](https://www.mysql.com/) | [Supabase](https://supabase.io/) | [Express](https://expressjs.com/) | [Figma](https://www.figma.com/)
+
 
 
 ### Socials
